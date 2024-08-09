@@ -7,7 +7,7 @@ This project demonstrates how to generate the lyrics of an Irish song using a Re
 By training the LSTM model on a corpus of Irish song lyrics, the model learns the patterns, style, and structure of the language, allowing it to generate new, coherent lyrics in the style of traditional Irish songs.
 
 Project Structure
-Data Collection and Preprocessing:
+Data Collection and Preprocessing: 
 
 Dataset: A collection of Irish song lyrics is used as the training data. This dataset can be compiled from publicly available sources of traditional Irish songs.
 Text Preprocessing: The lyrics are cleaned and processed to create sequences of words that the LSTM model will use to learn and generate new lyrics.
